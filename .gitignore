@@ -1,0 +1,23 @@
+# 编译产物
+*.exe
+*.o
+*.obj
+*.out
+a.out
+
+# 调试 / 性能分析
+gmon.out
+*.layout
+*.dev
+*.dev.bak
+*.dSYM/
+
+# 编辑器
+.vscode/
+.idea/
+*.sublime-project
+
+# 系统
+Thumbs.db
+desktop.ini
+.DS_Store
